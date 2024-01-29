@@ -1,7 +1,7 @@
 # The Wild Oasis
 
 Main project in Jonas Schmedtman's Ultimate React Course.
-### https://the-wild-oasis-beta-seven.vercel.app/
+### ![The Wild Oasis](https://the-wild-oasis-beta-seven.vercel.app/)
 
 ## Login Page
 
